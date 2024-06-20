@@ -1,0 +1,31 @@
+body {
+    background: #D5E1EF;
+}
+
+.card {
+    margin-top: 50px;
+    border-radius: 10px;
+    box-shadow: 3px 6px 10px 2px rgb(113 111 111 / 19%);
+}
+
+.card .img-wrap {
+    padding: 15px;
+}
+
+.card .card-body {
+    text-align: center;
+    padding-bottom: 45px;
+}
+
+.card .card-body .card-title {
+    color: #1F314F;
+    font-size: 22px;
+    line-height: 26px;
+    font-weight: 500;
+}
+
+.card .card-body .card-text {
+    color: #7D889E;
+    font-size: 15px;
+    line-height: 18px;
+}
